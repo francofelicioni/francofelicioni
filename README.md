@@ -80,14 +80,10 @@
 
 <div align="center">
 
-<a href="https://github.com/francofelicioni/">
-  <img src="https://github-readme-stats.vercel.app/api?username=francofelicioni&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450" alt="francofelicioni"/>
-  
-  <br>
+## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank" Gitlab lately!</b>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=francofelicioni&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="francofelicioni"/>
-</a>
-</div>
+![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/0f2eb28e-ff6e-4549-a662-9790e64669ce)
+
 
 <br>
 <br>
