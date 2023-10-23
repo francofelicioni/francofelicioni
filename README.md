@@ -1,10 +1,8 @@
-<h1 align="center"><b>Hi, I'm Franco Felicioni </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi, I'm Franco Felicioni </b></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Jr.+Front-End+Developer,;Eternal+ student,;Delving+into+the+back-end+world,;Love+to+learn+new+stuffs!;Always+wanting+to+improve+myself...;I+do+kitesurf+in+my+free+time!"></a>
 </p>
-
-<br>
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
@@ -12,9 +10,9 @@
 
 <br>
  
-- Jr. Front en developer 👨‍💻
-- Currently learning Back-end development
-- I’m currently looking for a job opportunity, this is 👉 [My Portfolio](https://francofelicioni.github.io/portfolio/)
+- Jr. Full-Stack developer 👨‍💻
+- Always learning
+- Current working at Rica Design where I work as a web developer, mostly using Laravel and Vue js. Check out my 👉[my Portfolio](https://francofelicioni.github.io/portfolio/)
 
 <br><br>
 
@@ -80,7 +78,7 @@
 
 <div align="center">
 
-## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank" Gitlab lately!</b>
+## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank" </a> Gitlab lately!</b>
 
 ![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/0f2eb28e-ff6e-4549-a662-9790e64669ce)
 
