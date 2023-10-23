@@ -6,8 +6,6 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
 <br>
  
 - Jr. Full-Stack developer 👨‍💻
@@ -78,7 +76,7 @@
 
 <div align="center">
 
-## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank" </a> Gitlab lately!</b>
+## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank"> Gitlab </alately!</b>
 
 ![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/0f2eb28e-ff6e-4549-a662-9790e64669ce)
 
