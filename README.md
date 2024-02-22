@@ -78,7 +78,8 @@
 
 ## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank"> Gitlab </a> lately!</b>
 
-![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/0f2eb28e-ff6e-4549-a662-9790e64669ce)
+![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/234fc8d8-3ad0-4f56-aef5-0559da6d09e5)
+
 
 
 <br>
