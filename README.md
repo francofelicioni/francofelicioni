@@ -55,15 +55,7 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<br>
-
-- **Cloud Hosting**:
-
-  ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
 <br>
 
 ---
@@ -78,8 +70,7 @@
 
 ## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank"> Gitlab </a> lately!</b>
 
-![image](https://github.com/francofelicioni/francofelicioni/assets/95261679/234fc8d8-3ad0-4f56-aef5-0559da6d09e5)
-
+![CleanShot 2024-04-16 at 23 29 55](https://github.com/francofelicioni/francofelicioni/assets/95261679/ff272268-c4e0-4c12-b444-c1947a655688)
 
 
 <br>
