@@ -70,8 +70,7 @@
 
 ## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank"> Gitlab </a> lately!</b>
 
-![CleanShot 2024-04-16 at 23 29 55](https://github.com/francofelicioni/francofelicioni/assets/95261679/ff272268-c4e0-4c12-b444-c1947a655688)
-
+![CleanShot 2024-05-26 at 22 28 51](https://github.com/francofelicioni/francofelicioni/assets/95261679/db6947ba-b5cb-4fd0-8622-116701f53402)
 
 <br>
 <br>
