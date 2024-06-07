@@ -9,7 +9,7 @@
 - Above all, I strive to learn about architecture, design patterns, and programming fundamentals every day.
 - Current working at Rica Design where I work as a web developer, mostly using Laravel and Vue js. Check out my 👉[my Portfolio](https://francofelicioni.github.io/portfolio/)
 
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
@@ -40,8 +40,11 @@
 <br>
     
 - **Dev Tools**:
+  
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br>
 
 - **Style Tools**:
 
@@ -53,24 +56,10 @@
 
 <br>
 
-- **Currently Learning**:
-
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-  
-
-</p>
-
-<br>
-
 - **Softwares and Tools**:
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br>
-
----
 
 <br>
 
