@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hi, I'm Franco Felicioni 👋 </b></h1>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <br>
  
@@ -60,13 +60,15 @@
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%23121011.svg?style=for-the-badge&logo=docker&logoColor=blue)
 
 <br>
 
 
 ## <b> I've been more active on <a href="https://gitlab.com/ffelicioni" target="_blank"> Gitlab </a> lately!</b>
 
-![CleanShot 2024-06-07 at 13 23 41](https://github.com/francofelicioni/francofelicioni/assets/95261679/3fc470fb-d94d-40d9-aeea-ec7ee24e7792)
+
+![CleanShot 2024-07-03 at 17 30 43](https://github.com/user-attachments/assets/e034b62e-e2be-4b96-92bf-93083ac64239)
 
 
 <br>
